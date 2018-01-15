@@ -83,4 +83,4 @@ angular.module('kityminderDemo', ['kityminderEditor'])
 
 邮件组：kity@baidu.com
 
-QQ 讨论群：475962105
+QQ 讨论群：4759621058888888
